@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Knowledge Compiler",
+  "description": "A build-time knowledge synthesis engine that compiles raw data into persistent wikis and typed artifacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
